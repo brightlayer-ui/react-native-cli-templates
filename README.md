@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-react-native-cli-templates).
+
 # React Native CLI Templates
 
 These are project templates that are used by the Brightlayer UI CLI when starting a new Brightlayer UI project. They are used behind the scenes by the Brightlayer UI CLI.
